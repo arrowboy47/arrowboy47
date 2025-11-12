@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Aiden Kelly🦈</h1>
 
-<!--
-**arrowboy47/arrowboy47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<p align="center">
+	  <em>Data Scientist | Analyst | Tech Enthusiast </em>
+</p>
+---
 
-Here are some ideas to get you started:
+Hi, my name's Aiden (he/him) and I am an aspiring data scientist who loves to work on little projects in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Find me here
+
+- 📨 [Email](mailto:aidenquinkelly0@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aidenkelly47/)  
+- 🏠 [Website](https://google.com)
