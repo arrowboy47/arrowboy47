@@ -1,6 +1,4 @@
 <h1 align="center">Aiden Kelly🦈</h1>
-
----
 <p align="center">
 	  <em>Data Scientist | Analyst | Tech Enthusiast </em>
 </p>
