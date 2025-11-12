@@ -3,8 +3,6 @@
 	  <em>Data Scientist | Analyst | Tech Enthusiast </em>
 </p>
 
----
-
 Hi, my name's Aiden (he/him) and I am an aspiring data scientist who loves to work on little projects in my free time.
 
 ---
