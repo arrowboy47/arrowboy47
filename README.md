@@ -10,4 +10,4 @@ Hi, my name's Aiden (he/him) and I am an aspiring data scientist who loves to wo
 
 - 📨 [Email](mailto:aidenquinkelly0@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aidenkelly47/)  
-- 🏠 [Website](https://google.com)
+- 🏠 [Website](https://mywebsite-kappa-vert.vercel.app/)
